@@ -1,4 +1,4 @@
-# Spare Part Catalog Search — Portfolio Demo
+# Spare Part Catalog Search (Data Dummy)
 
 A small portfolio case study based on a real workflow challenge: spare-part master data is partial, customer questions use mixed Indonesian and English terms, and repeated lookups can create duplicate records.
 
