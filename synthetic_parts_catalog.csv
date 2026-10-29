@@ -1,0 +1,19 @@
+pn,description_en,description_id,category,unit,vendor,brand,net_price,buyer_tier
+DEMO-BAT-001,Forklift battery 48V 600Ah,Baterai forklift 48V 600Ah,Battery,Forklift A,Demo Vendor North,Voltix,12500000,Standard
+DEMO-BAT-002,Forklift battery 48V 750Ah,Baterai forklift 48V 750Ah,Battery,Forklift B,Demo Vendor East,Voltix,14950000,Standard
+DEMO-TIR-001,Solid tire 18x7-8,Ban solid 18x7-8,Tire,Forklift A,Demo Vendor West,Roadmark,1850000,Tier A
+DEMO-TIR-002,Pneumatic tire 6.00-9,Ban pneumatic 6.00-9,Tire,Forklift C,Demo Vendor East,Roadmark,2150000,Tier B
+DEMO-FIL-001,Hydraulic oil filter,Filter oli hidrolik,Filter,Forklift A,Demo Vendor North,ClearFlow,425000,Standard
+DEMO-FIL-002,Air filter element,Elemen filter udara,Filter,Forklift B,Demo Vendor South,ClearFlow,310000,Standard
+DEMO-BRK-001,Brake shoe assembly,Sepatu rem assembly,Brake,Forklift C,Demo Vendor South,Stopwell,980000,Tier A
+DEMO-BRK-002,Brake cylinder kit,Kit silinder rem,Brake,Forklift A,Demo Vendor West,Stopwell,760000,Tier B
+DEMO-BRG-001,Mast roller bearing,Bantalan roller mast,Bearing,Forklift B,Demo Vendor North,RollPro,670000,Standard
+DEMO-BRG-002,Wheel bearing set,Set bantalan roda,Bearing,Forklift C,Demo Vendor East,RollPro,590000,Standard
+DEMO-HOS-001,Hydraulic hose 1/2 inch,Selang hidrolik 1/2 inci,Hydraulic,Forklift A,Demo Vendor West,Flexline,450000,Tier A
+DEMO-LMP-001,Work lamp LED 24V,Lampu kerja LED 24V,Electrical,Forklift B,Demo Vendor South,Brightway,390000,Tier B
+DEMO-CHN-001,Lift chain 2.5m,"Rantai angkat 2,5m",Mast,Forklift C,Demo Vendor North,LiftPro,2750000,Standard
+DEMO-RIM-001,Rim 4.00E x 8,Pelek 4.00E x 8,Wheel,Forklift A,Demo Vendor East,Roadmark,1120000,Tier A
+DEMO-SEN-001,Seat switch assembly,Saklar kursi assembly,Electrical,Forklift B,,Brightway,,Standard
+DEMO-PMP-001,Water pump assembly,Pompa air assembly,Engine,Forklift C,Demo Vendor West,ThermoCore,1680000,Tier B
+DEMO-GSK-001,Cylinder head gasket,Gasket cylinder head,Engine,Forklift A,Demo Vendor South,SealRight,520000,Standard
+DEMO-ALT-001,Alternator 12V 45A,Alternator 12V 45A,Electrical,Forklift C,Demo Vendor East,Brightway,2350000,Tier A
